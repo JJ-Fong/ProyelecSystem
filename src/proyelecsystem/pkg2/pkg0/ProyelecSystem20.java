@@ -5,6 +5,7 @@
  */
 package proyelecsystem.pkg2.pkg0;
 
+
 /**
  *
  * @author Javier Fong
@@ -16,6 +17,7 @@ public class ProyelecSystem20 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
